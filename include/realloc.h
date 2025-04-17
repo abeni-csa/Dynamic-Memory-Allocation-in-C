@@ -1,1 +1,1 @@
-void *realloc(void *p, size_t size);
+// realcoc void *realloc(void *p, size_t size);
